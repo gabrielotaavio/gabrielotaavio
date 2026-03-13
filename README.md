@@ -1,14 +1,15 @@
-##Seção 1
-<hr>
-<br>
-<br>
+##Linguagens
 
-##Seção 2
-<hr>
-<br>
-<br>
+<ul>
+  <li>Java</li>
+  <li>JavaScript</li>
+  <li>HTML</li>
+  <li>Python</li>
+</ul>
 
-##Seção 3
-<hr>
-<br>
-<br>
+##Projetos
+
+<ul>
+  <li>Projeto 1</li>
+  <li>Projeto 2</li>
+</ul>
