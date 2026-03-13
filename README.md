@@ -2,7 +2,7 @@
   <p>texto centralizado</p>
 </div>
 
-<img src="link_da_imagem" width="200px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="200px">
 
 <a href="blablabla.com">  
 
